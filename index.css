@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://cdn.glitch.global/689007f1-1a09-4e1c-909a-f081d4b01ec2/pattern-background-desktop.svg?v=1656365642117);
+  background-repeat: no-repeat; 
+  background-color:#E0E8FF;
+  
+}
+.card-conteiner {
+  display: flex;
+  flex-direction: column;
+}
+.order-summary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+h1 {
+  color: #1f2e55;
+  display: flex;
+  justify-content: center;
+  width: 263px;
+  height: 29px;
+}
+.par1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #717fa6;
+  height: 78px;
+  margin-left: 60px;
+  text-align:center;
+  padding-right:48px;
+}
+.card img {
+  border-radius: 15px;
+}
+.oval img {
+  width: 48px;
+  height: 48px;
+}
+
+.year {
+  font-family: "Red Hat Display", sans-serif;
+  color: #717fa6;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 19px;
+  margin-top: 3px;
+}
+.change {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #382ae1;
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+.paymant {
+  background: #382ae1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 354px;
+  height: 50px;
+  border-radius: 11px;
+  margin-left: 50px;
+  margin-top: 24px;
+}
+.order {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
+p1 {
+  font-family: "Red Hat Display", sans-serif;
+  color: #717fa6;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+}
+.small-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 15px;
+  background-color: #f7f9ff;
+  width: 354px;
+  height: 98px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.annual {
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 21px;
+  color: #1f2e55;
+}
+
+.background-img {
+  border: 80px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  width: 450px;
+  height: 697px;
+}
+.proccesed {
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  color: #ffffff;
+}
+.small-annual-box {
+  margin-right: 75px;
+}
